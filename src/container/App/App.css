@@ -1,5 +1,10 @@
-.App p,
-.App li,
-.App h1,
-.App a {
-  font-family: Menlo, Arial, Helvetica, sans-serif; }
+body {
+  margin: 0; }
+
+.App {
+  padding: 150px 50px; }
+  .App p,
+  .App li,
+  .App h1,
+  .App a {
+    font-family: Menlo, Arial, Helvetica, sans-serif; }

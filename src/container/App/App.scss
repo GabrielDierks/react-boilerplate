@@ -1,8 +1,16 @@
+body {
+  margin:0;
+}
+
 .App {
+
+  padding:150px 50px;
+
   p,
   li,
   h1,
   a {
     font-family: Menlo, Arial, Helvetica, sans-serif;
   }
+
 }
