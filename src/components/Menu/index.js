@@ -29,7 +29,11 @@ class Menu extends React.Component {
                         <Link to="/about" onClick={this.openMenuHandler} className="Nav-menu-item">
                             About
                         </Link>
-                        <Link to="/contact" onClick={this.openMenuHandler} className="Nav-menu-item">
+                        <Link
+                            to="/contact"
+                            onClick={this.openMenuHandler}
+                            className="Nav-menu-item"
+                        >
                             Contact
                         </Link>
                     </div>
