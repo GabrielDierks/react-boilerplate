@@ -2,9 +2,10 @@ body {
   margin: 0; }
 
 .App {
-  padding: 150px 50px; }
+  padding: 150px 50px;
+  background: #eeeeee; }
   .App p,
   .App li,
   .App h1,
   .App a {
-    font-family: Menlo, Arial, Helvetica, sans-serif; }
+    font-family: 'Menlo', Arial, Helvetica, sans-serif; }

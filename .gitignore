@@ -24,3 +24,7 @@ yarn-error.log*
 react-app/src/atoms/**/*.css
 react-app/src/components/**/*.css
 react-app/src/container/**/*.css
+
+#additional files
+package-lock.json
+.idea/workspace.xml
