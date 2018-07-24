@@ -1,0 +1,8 @@
+.Footer {
+  position: absolute;
+  right: 50px;
+  width: 100%;
+  text-align: right; }
+  .Footer a {
+    color: #000000;
+    text-decoration: none; }
