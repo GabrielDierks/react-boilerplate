@@ -11,4 +11,5 @@ body {
   .App a {
     font-family: 'Menlo', Arial, Helvetica, sans-serif; }
   .App div:nth-of-type(2) {
-    padding: 50px; }
+    padding: 50px;
+    background: #fff; }

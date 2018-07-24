@@ -14,8 +14,8 @@ yarn-debug.log*
 yarn-error.log*
 
 #compiled css
-src/components/**/*.css
-src/container/**/*.css
+react-boilerplate/src/components/**/*.css
+react-boilerplate/src/container/**/*.css
 
 #additional files
 package-lock.json
