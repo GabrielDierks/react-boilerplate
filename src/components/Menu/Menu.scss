@@ -42,27 +42,25 @@
       transition: 0.25s ease-in-out;
 
       &:nth-child(1) {
-        top: 15px;
+        top: 0;
       }
-
       &:nth-child(2) {
-        top: 25px;
+        top: 10px;
       }
       &:nth-child(3) {
         display: block;
-        top: 35px;
+        top: 20px;
       }
     }
 
     &.open span:nth-child(1) {
       transform: rotate(-45deg);
-      top: 20px;
       background-color: #fff;
     }
 
     &.open span:nth-child(2) {
       transform: rotate(45deg);
-      top: 20px;
+      top: 0;
       background-color: #fff;
     }
 
