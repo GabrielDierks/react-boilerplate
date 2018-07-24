@@ -19,4 +19,4 @@ yarn-error.log*
 
 #additional files
 package-lock.json
-/.idea/workspace.xml
+/.idea
