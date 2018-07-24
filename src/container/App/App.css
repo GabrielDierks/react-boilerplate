@@ -2,10 +2,13 @@ body {
   margin: 0; }
 
 .App {
-  padding: 150px 50px;
-  background: #eeeeee; }
+  width: 100%;
+  background: #eeeeee;
+  padding: 150px 0; }
   .App p,
   .App li,
   .App h1,
   .App a {
     font-family: 'Menlo', Arial, Helvetica, sans-serif; }
+  .App div:nth-of-type(2) {
+    padding: 50px; }

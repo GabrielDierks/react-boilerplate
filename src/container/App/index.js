@@ -6,8 +6,11 @@ import About from '../About';
 import Contact from '../Contact';
 
 import Menu from '../../components/Menu';
-import './App.css';
 import Header from '../../components/Header';
+import Footer from '../../components/Footer';
+
+import './App.css';
+
 
 class App extends Component {
     render() {
@@ -20,6 +23,7 @@ class App extends Component {
                     <Route path="/contact" component={Contact} />
                 </Switch>
                 <Menu />
+                <Footer />
             </div>
         );
     }

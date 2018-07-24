@@ -9,22 +9,14 @@
 # production
 /build
 
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
 #compiled css
-react-app/src/atoms/**/*.css
-react-app/src/components/**/*.css
-react-app/src/container/**/*.css
+/src/components/**/*.css
+/src/container/**/*.css
 
 #additional files
 package-lock.json
-.idea/workspace.xml
+/.idea/workspace.xml
